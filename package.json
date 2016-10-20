@@ -1,0 +1,26 @@
+{
+  "name": "simple-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/crufener/simple-login.git"
+  },
+  "author": "Craig Rufener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crufener/simple-login/issues"
+  },
+  "homepage": "https://github.com/crufener/simple-login#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "mongodb": "^2.2.10"
+  }
+}
